@@ -25,21 +25,6 @@ All-in-One WP Migration (Backup & migration)
 
 
 
-📂 Project Files
-
-productera.xml → WordPress exported content (pages, posts, products).
-https://drive.google.com/drive/folders/1lWz9Nbz4jsX1uzLPtpO6ME6mbNtDoRZ7?usp=sharing
-
-
-productera.wpress → Full website backup (can be imported using All-in-One WP Migration plugin).
-https://drive.google.com/drive/folders/1krE19k6S5fa2UT_HPo1h0_EO7ev4bK-B?usp=sharing
-
-📖 How to Import Project
-Install WordPress on your hosting or localhost.
-Install All-in-One WP Migration plugin.
-Import the .wpress file to get the full site (design + content).
-OR import the .xml file from WordPress Tools → Import.
-
 👨‍💻 Author
 Meesam Ali
 🌐 Passionate about Web Development & Digital Marketing
