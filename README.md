@@ -23,9 +23,9 @@ The website features all the essential elements of an online store, including pr
 
 ✅ Order Confirmation Page – Clear post-purchase flow.
 
+
+
 🛠️ Tools & Technologies
-
-
 
 WordPress (CMS)
 
@@ -43,4 +43,3 @@ All-in-One WP Migration (Backup & migration)
 Meesam Ali
 🌐 Passionate about Web Development & Digital Marketing
 
-🔗 LinkedIn Profile (Add your link here)
