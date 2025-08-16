@@ -24,27 +24,6 @@ WooCommerce (E-commerce plugin)
 All-in-One WP Migration (Backup & migration)
 
 
-📸 Screenshots
-
-Here are some screenshots of the website:
-Home Page
-<img width="1920" height="10352" alt="Tarzic (1)" src="https://github.com/user-attachments/assets/145efc89-5dcf-4406-b858-3ef7133cdf68" />
-Shop Page
-<img width="1920" height="1579" alt="Shop – Tarzic" src="https://github.com/user-attachments/assets/05a75a27-723e-4664-aa0b-b476d3095141" />
-Blog Page
-<img width="1920" height="3080" alt="Blog – Tarzic" src="https://github.com/user-attachments/assets/91f0c2e5-56b6-4f4e-8201-20284186c6db" />
-FAQs Page
-<img width="1920" height="4334" alt="FAQ’s – Tarzic" src="https://github.com/user-attachments/assets/aa4370db-3f50-4a04-8242-2bf2acb57055" />
-Men’s Category
-<img width="1920" height="2582" alt="Men – Tarzic" src="https://github.com/user-attachments/assets/a3e27214-2864-4fd1-93a8-94cb0afb8d43" />
-Product Details Page
-<img width="1920" height="2889" alt="Cream T-Shirt – Tarzic" src="https://github.com/user-attachments/assets/6878a064-48e8-4d12-8d3c-a4250fb62cea" />
-Cart Page
-<img width="1920" height="2115" alt="Cart – Tarzic" src="https://github.com/user-attachments/assets/3ad0cbb5-b2c6-456e-b4ba-f0f5d38074a2" />
-Checkout Page
-<img width="1920" height="2852" alt="Checkout – Tarzic" src="https://github.com/user-attachments/assets/a8894e1b-71cf-4533-8d61-4cbd015da317" />
-Order Confirmation Page
-<img width="1920" height="2031" alt="Checkout – Tarzic (1)" src="https://github.com/user-attachments/assets/68882218-8266-4244-aac6-ea050596fb21" />
 
 📂 Project Files
 
